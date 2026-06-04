@@ -19,3 +19,5 @@ Skills Demonstrated
 • Data Visualization
 • Dashboard Creation
 • Business Insights
+## Dashboard Preview
+![Dashboard](dashboard.png)
