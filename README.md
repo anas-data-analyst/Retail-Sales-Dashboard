@@ -21,3 +21,5 @@ Skills Demonstrated
 • Business Insights
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
+## insight Preview
+![insight](insight.png)
